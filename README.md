@@ -4,7 +4,7 @@ Infrastructure as Code and Configuration Management for DevOps-Stage-4 project
 This project automates the provisioning and configuration of cloud infrastructure using *Terraform* and *Ansible*. It provisions cloud servers, configures security groups, dynamically generates Ansible inventory files, and deploys an application using Docker Compose.
 
 
-
+```yaml
 ├── ansible
 │   ├── inventory
 │   │   └── hosts.yml
@@ -30,6 +30,7 @@ This project automates the provisioning and configuration of cloud infrastructur
 │   ├── terraform.tfvars
 │   └── variables.tf
 └── README.md
+```
 
 ## Prerequisites
 
