@@ -1,0 +1,10 @@
+- name: Clone application repository
+  git:
+    repo: "https://github.com/victor-ok/DevOps-Stage-4"
+    dest: "/home/ubuntu/app"
+    version: main
+
+- name: Start application with Docker Compose
+  shell: docker-compose up -d
+  args:
+    chdir: /home/ubuntu/app
