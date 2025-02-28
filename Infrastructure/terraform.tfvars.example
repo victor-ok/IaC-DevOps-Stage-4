@@ -1,0 +1,8 @@
+domain_name="domain.com"
+key_name="key-name"
+vpc_id="your-vpc-id"
+subnet_id = "your-vpc-id"
+key_path = "your-key-path"
+admin_email      = "your-email.com"
+git_repo_url     = "your-git-repo.git"
+git_branch       = "main"

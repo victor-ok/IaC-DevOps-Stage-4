@@ -1,4 +1,4 @@
-- hosts: app_server
+- hosts: devops_stage4_server
   become: true
   roles:
     - dependencies

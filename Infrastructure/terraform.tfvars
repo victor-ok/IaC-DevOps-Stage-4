@@ -1,0 +1,8 @@
+domain_name="victorok.cloud"
+key_name="todo-key"
+vpc_id="vpc-0ef2c0f9fb7e340c7"
+subnet_id = "subnet-0a5e762b9fd23444b"
+key_path = "~/todo-key.pem"
+admin_email= "vua.okafor@gmail.com"
+git_repo_url= "https://github.com/victor-ok/IaC-DevOps-Stage-4.git"
+git_branch= "main"

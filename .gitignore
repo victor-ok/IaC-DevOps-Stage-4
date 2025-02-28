@@ -1,0 +1,8 @@
+Infrastrusture/terraform/.terraform
+Infrastrusture/terraform/terraform.tfstate
+Infrastrusture/terraform/terraform.tfstate.backup
+Infrastrusture/terraform/terraform.tfvars
+ansible/.ansible
+ansible/ansible.cfg
+ansible/vars/*
+Infrastrusture/.terraform.terraform/
